@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajulrag" alt="ajulrag" /></a> </p>
 
-- 🔭 I’m currently working in Brototype as MERN Stack Developer
+- 🔭 I’m currently working in Teknikforce as Backend Developer
 
 - 💬 Ask me about **Node js , Mongo db**
 
